@@ -3,7 +3,7 @@ body {font-family: Arial;}
 
 /* Style the tab */
 html{
-  
+  background-image: linear-gradient(to right,#ba5370 , #f4e2d8);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
